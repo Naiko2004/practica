@@ -4,5 +4,6 @@ using namespace std;
 int main(){
 	int msg = 0;
 	cout<<"Esta es una practica"<<endl;
+	cout<<msg<<endl;
 	return 0;
 }
